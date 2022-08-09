@@ -1,0 +1,1 @@
+To run the code run command node index.js
